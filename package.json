@@ -1,7 +1,7 @@
 {
   "name": "pulso-mcp-server",
-  "version": "0.1.0",
-  "description": "MCP server para Claude operar a infra do Pulso com segurança",
+  "version": "0.2.0",
+  "description": "MCP server para Claude operar a infra do Pulso com segurança (MCP-over-SSE)",
   "main": "dist/index.js",
   "scripts": {
     "build": "tsc",
